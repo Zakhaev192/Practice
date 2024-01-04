@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+h1{
+    background-color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: 40px;
+    color: blueviolet;
+    border-radius: 50px;
+    border: 1px solid yellow;
+
+}
